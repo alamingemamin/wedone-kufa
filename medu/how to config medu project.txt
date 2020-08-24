@@ -1,0 +1,28 @@
+php.ini file
+========
+SMTP=smtp.gmail.com
+smtp_port=587
+sendmail_from=your-email@gmail.com
+sendmail_path="\"C:\xampp\sendmail\sendmail.exe\" -t"
+
+
+sendmail.ini
+=========
+smtp_server=smtp.gmail.com
+smtp_port=587
+error_logfile=error.log
+debug_logfile=debug.log
+auth_username=your-email@gmail.com
+auth_password=your-email-password
+force_sender=your-email@gmail.com
+
+database extruct file
+=============
+database name: medu
+database location: medu/database/medu.sql
+
+medu account login access 
+================
+Email        : alamingemamin@gmail.com
+password : 123456789(*&^%$#@!
+user role   : admin
